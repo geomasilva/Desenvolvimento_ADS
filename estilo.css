@@ -1,0 +1,32 @@
+/*Seletor de elementos */
+body {
+
+    background-color: rgb(231, 15, 166);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Seletor de id= */
+#teste{
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Seletor de Classe */
+.bonitinho{
+    background-color: ghostwhite;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: black;
+}
+li{
+background-color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li.active{
+    background-color: chartreuse;
+}
+
+.space{
+    padding: 0.9rem;
+}
