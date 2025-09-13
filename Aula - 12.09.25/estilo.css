@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:cornflowerblue;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+
+}
+
+label{
+    display: block;
+   
+}
+.formulario{
+    margin: 4rem;
+    margin-right: 2rem;
+    border-style: dashed;
+    padding: 1rem;
+    
+
+}
+input{
+    margin-bottom: 1rem;
+    padding: 0.2rem;
+}
+
